@@ -1,1 +1,1 @@
-![cudi](https://github.com/user-attachments/assets/bc0a689c-9f85-4e0e-8466-b887c4d5fee6)
+<img alt="Coding Animation" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
