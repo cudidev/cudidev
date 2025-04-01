@@ -1,1 +1,1 @@
-![cudidev](https://github.com/user-attachments/assets/e5b36f8c-e954-4eb3-bfc1-061c109205c5)
+![cudidev](https://github.com/user-attachments/assets/7ed668b4-1d82-4e96-896c-30df8163047f)
